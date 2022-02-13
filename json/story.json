@@ -4,14 +4,17 @@
         "name": "Ram Kishore",
         "design": "Frontend Developer",
         "hi": "Hi there , i am",
-        "linked": "https://www.linkedin.com/in/ram-kishore-005727219"
-    },
+        "linked": "https://www.linkedin.com/in/ram-kishore-005727219",
+        " desc ": "Dreamer | Web Development Student at Spotknack | Front-End Developer | Student of Karpagam College | ECE-Student Dreamer | Web Development Student at Spotknack | Front-End Developer | Student of Karpagam College | ECE-Student |"
+        },
     {
         "id": 2,
         "image": "img/members/maithreyan.jfif",
         "name": "Maithreyan",
         "design": "Frontend Developer",
         "hi": "Hi there , i am",
-        "linked": "https://www.linkedin.com/in/maithreyan-m-768b20219"
+        "linked": "https://www.linkedin.com/in/maithreyan-m-768b20219",
+        "desc":"Hello guy's it's me Ramkishore.T  For a several years now, I have focused on my career path and academic pursuits on learning and developing those all-important skills is necessary to be great in this type of role Now i have learning the frontend development at spotknack"
+
     }
 ]
